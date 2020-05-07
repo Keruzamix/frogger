@@ -3,13 +3,17 @@ A simple online game inspired by Frogger with elements of chat, ranking and info
 
 # Screenshot
 Start screen:
+
 ![](/IMAGE/sc2.png)
 
 Main menu:
+
 ![](/IMAGE/sc3.png)
 
 Ranking:
+
 ![](/IMAGE/sc4.png)
 
 Game screen:
+
 ![](/IMAGE/Gra_frogger.png)
